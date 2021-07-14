@@ -6,4 +6,12 @@ body {
 }
 main>.container {
     padding: 60px 15px 0;
+    color: #eee;
+}
+main>.container-fluid {
+    padding-top: 60px;
+    color: #eee;
+}
+.minHeight {
+    min-height: 80vh;
 }
